@@ -5,22 +5,29 @@ About the Curriculum
 The freeCodeCamp Certified Full Stack Software Developer curriculum is a comprehensive program that covers:
 
 Building simple web pages with HTML
+Designing and styling websites with CSS3
+Javascript
+Frontend development libraries
+Relational databases
+Backend Javascript
+Python
 
-Projects Completed
-Responsive Web Design
-Cat Photo App
+Projects Completed:
+Cat Photo App webpage
 Description: A simple web app displaying cat photos and lists.
+recipe webpage
+travel agency webpage
 Skills Demonstrated: Semantic HTML, accessibility, lists, links, and figures.
 
-How to Use
+How to Use:
 Clone this repository:
 git clone https://github.com/Ade20boss/CFSD_PROJECTS
 Navigate to the specific project folder.
 Open the index.html file in your browser to view the project.
 Technologies Used So Far
-Frontend: HTML5, CSS3
+Frontend: HTML5
 Tools: Git, GitHub, Webstorm
-Next Steps
+Next Steps:
 I’m excited to continue my journey through the curriculum, exploring JavaScript, front-end libraries, and eventually full-stack development. Stay tuned for updates as I progress!
 
 Acknowledgments
